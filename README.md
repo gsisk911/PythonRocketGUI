@@ -3,7 +3,7 @@
 SETUP
 *******
 *Create virtual env
-~ python3 -m venv rocket-env
+~python3 -m venv rocket-env
 
 *run venv
 ~source rocket-env/bin/activate

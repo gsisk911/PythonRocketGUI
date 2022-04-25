@@ -1,2 +1,4 @@
 pyserial
 tk
+numpy
+http://bit.ly/csc161graphics
